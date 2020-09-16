@@ -1,0 +1,19 @@
+<''''''''' FaMi mobile Store'''''''''>
+
+ you wants to create  
+phoneshop.sql 
+database 
+using xampp
+AND import database file 
+Path:fami1/databas/ phoneshop.sql
+..........................................
+	Admin
+   _______
+user name:-admin@fazal.com
+password::-fazal123
+
+	User
+   _______
+User name:-fazalm432@gmail.com
+password:-fazal075
+.....................   
